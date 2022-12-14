@@ -1,12 +1,12 @@
 <h1 align="center">
-   <a href="Link do Git Pages">
+   <a href="https://bbmiranda.github.io/atividadeFilmes/">
 	<img alt="Logo" src="image/SoulCode.png" />
    </a>
    <br>
 </h1>
 
 <p align="center">
-  <a href="Link do Git Pages">
+  <a href="https://www.linkedin.com/in/bruno-b-miranda/">
   <img alt="Feito por" src="https://img.shields.io/static/v1?label=Made%20By&message=Bruno%20B.%20Miranda&color=orange&style=for-the-badge">
   </a>
   
@@ -44,7 +44,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar por aqui:
 
-- [Projeto][demo]
+- [Projeto Filmes][demo]
 
 ## :information_source: Como utilizar
 
@@ -52,9 +52,9 @@ Para clonar e executar este aplicativo, você precisará do Git instalado em seu
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/BBMiranda/AtividadeHTML.git
+$ git clone https://bbmiranda.github.io/atividadeFilmes.git
 # Entre no repositório
-$ cd AtividadeHTML
+$ cd atividadeFilmes
 # Vá para index.html
 # Clique com o botão direito nele
 # Executar com o Live Server
@@ -67,5 +67,4 @@ $ cd AtividadeHTML
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-
-[demo]: Inserir aqui o link do Git Pages!
+[demo]: https://bbmiranda.github.io/atividadeFilmes/
